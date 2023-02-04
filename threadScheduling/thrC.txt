@@ -1,0 +1,10 @@
+3.432826 Priority: 15 
+3.325368 Priority: 22 
+4.363254 Priority: 32 
+3.386013 Priority: 42 
+3.328844 Priority: 52 
+3.409518 Priority: 62 
+3.376498 Priority: 72 
+3.454648 Priority: 82 
+3.456616 Priority: 92 
+3.420923 Priority: 99 

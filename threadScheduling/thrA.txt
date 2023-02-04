@@ -1,0 +1,10 @@
+5.619786 Priority: 5
+5.586914 Priority: 18
+6.086156 Priority: 28
+5.597766 Priority: 38
+5.591438 Priority: 48
+5.638579 Priority: 58
+5.608013 Priority: 68
+5.723970 Priority: 78
+6.513613 Priority: 88
+6.103910 Priority: 99

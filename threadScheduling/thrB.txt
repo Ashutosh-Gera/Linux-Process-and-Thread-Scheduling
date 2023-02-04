@@ -1,0 +1,10 @@
+4.550808 Priority: 10
+4.568570 Priority: 20
+4.533124 Priority: 30
+4.533011 Priority: 40
+4.491780 Priority: 50
+4.492850 Priority: 60
+4.537037 Priority: 70
+4.581777 Priority: 80
+7.190202 Priority: 90
+4.513031 Priority: 99
