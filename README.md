@@ -110,7 +110,13 @@ Make the test files in any directory and then run
 
     gcc test.c -o test
     ./test
-   
+
+
+> Note: Each of the folders have a readMe.txt of their own too, inside. You can use those for further reference.
+
+> Thank you for visiting. Hope it helps.
+
+# Made with :blue_heart: by Ashutosh Gera
 
 
 
