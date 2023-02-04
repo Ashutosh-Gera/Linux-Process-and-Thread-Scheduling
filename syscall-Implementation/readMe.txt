@@ -1,4 +1,4 @@
-Readme For ques2(according to given pdf)
+Readme For syscall Implementation
 
 We need to write a system call, kernel 2d memcpy(), which copies one 2-D floating
 point matrix to another. You would require using kernel functions like
