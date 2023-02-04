@@ -16,7 +16,7 @@ Now to add the system call we first write SYSCALL_DEFINE4 with parameters source
 destination matrix, row, column.
 
 We add this system call into the table which lists the system calls we open the "syscall_64.tbl"
-using the vim text editor. We add it after the call 447 and then save and exit the editor.
+using the vim text editor. We add it after the call 450 and then save and exit the editor.
 Now to add definition we navigate to the syscall directory which contains all the definitions
 We create a function in which we use __copy_from_user() command to copy the content in mat1
 (source matrix) and then use __copy_to_user() command to write the copied content from mat1 to
@@ -35,5 +35,3 @@ we made while adding the syscall.
 
 Thank you
 Ashutosh Gera
-2021026
-CSE
